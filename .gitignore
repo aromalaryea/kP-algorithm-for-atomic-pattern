@@ -1,0 +1,9 @@
+#Ignore these folders
+.launches/
+.settings/
+
+
+#Ignore CCS project files
+*.ccsproject
+*.cproject
+*.project
